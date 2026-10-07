@@ -1,10 +1,8 @@
 # Windows powershell commands 
 
 ## MSI related commands
-<<<<<<< HEAD
 How do you list the GUID of a packaged that was installed through MSI
 ```
-<<<<<<< HEAD
 Get-CimInstance Win32_Product |
   Select-Object Name, IdentifyingNumber
 ```
